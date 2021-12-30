@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mkonjikovac/DemoProject/_apis/build/status/GitHub-java?branchName=master)](https://dev.azure.com/mkonjikovac/DemoProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
