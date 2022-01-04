@@ -16,7 +16,7 @@ pr:
     include:
     - master
   drafts: false  # whether draft versions of PRs should fire triggers (default is TRUE)
-
+# trying PRs with necessary comments
 
 steps:
 - task: Maven@3
